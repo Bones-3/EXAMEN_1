@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/pruebamvc/PruebaMVC.java</file>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/view/ViewHome.java</file>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/controller/ControllerHome.java</file>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/model/Espada.java</file>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/DAO/ConexionDAO.java</file>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/interfaces/IEventsHome.java</file>
+            <file>file:/C:/Users/Fabia/Documents/NetBeansProjects/PruebaMVC/src/DAO/EspadaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
